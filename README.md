@@ -5,3 +5,6 @@
 
 - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
 - [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
+
+  ## 2. 힙
+- [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
