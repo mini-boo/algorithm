@@ -1,3 +1,5 @@
+package StackNQueue;
+
 import java.util.*;
 
 class FunctionDevelopment {
